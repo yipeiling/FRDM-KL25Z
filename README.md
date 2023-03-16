@@ -10,10 +10,10 @@ FRDMKL25Z is a cheap, mature and good-interactive program board. In my opinion, 
 example to teach children some high-level computer science concepts.
 
 <div align="left">
-<img src=environment.png  width=40% />
+<img src=environment.png  width=50% />
 </div>
 
 ##Concept map
 <div align="left">
-<img src=conceptmap1.jpg  width=40% />
+<img src=conceptmap1.jpg  width=50% />
 </div>
