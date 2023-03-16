@@ -27,3 +27,9 @@ example to teach children some high-level computer science concepts.
 <div align="left">
 <img src=domain.jpg  width=50% />
 </div>
+
+
+## Code structure
+<div align="left">
+<img src=code.jpg  width=50% />
+</div>
