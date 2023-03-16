@@ -17,3 +17,8 @@ example to teach children some high-level computer science concepts.
 <div align="left">
 <img src=conceptmap1.jpg  width=50% />
 </div>
+
+## Data
+<div align="left">
+<img src=data.jpg  width=50% />
+</div>
