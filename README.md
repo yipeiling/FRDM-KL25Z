@@ -13,7 +13,7 @@ example to teach children some high-level computer science concepts.
 <img src=environment.png  width=50% />
 </div>
 
-##Concept map
+## Concept map
 <div align="left">
 <img src=conceptmap1.jpg  width=50% />
 </div>
